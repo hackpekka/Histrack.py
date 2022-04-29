@@ -8,10 +8,10 @@ How to track any IP ADDRESS?
 
 * `apt uptade`
 * `apt install git curl -y`
-* `git clone https://github.com/hackpekka/histrack`
-* `cd histrack`
+* `git clone https://github.com/hackpekka/histrack.py`
+* `cd histrack.py`
 
-**RUN >>** `bash histrack.sh`
+**RUN >>** `python histrack.py`
 
 ——————————————————————
   Social Sites:
