@@ -1,4 +1,4 @@
-#Python version by H1rr_Snorre
+#Python version by H1rr_Snorre #Respect Bro!
 #Require Requests, Colorama
 import requests
 from colorama import Fore, Back
